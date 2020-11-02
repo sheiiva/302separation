@@ -1,0 +1,23 @@
+############################################
+#                MATHEMATICS               #
+############################################
+#                                          #
+#           COUTRET-ROZET Corentin         #
+#                                          #
+#           Project : 302separation        #
+#                                          #
+############################################
+
+*__pycache__
+*vscode*
+tmp
+
+# PYTESTS
+
+# PYTHON
+htmlcov
+.coverage
+.pytest_cache
+
+# BINARY
+302separation
